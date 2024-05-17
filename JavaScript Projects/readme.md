@@ -4,3 +4,7 @@
 
 ### 02 Clock
 > ![image](https://github.com/iamevans/2024_get_a_job/assets/75237020/5dc46247-fd10-414f-b139-217383afd648)
+
+### 03 Random Color Generator
+> ![image](https://github.com/iamevans/2024_get_a_job/assets/75237020/dab5a92a-cde3-48a2-bb0d-1a1006852c20)
+
