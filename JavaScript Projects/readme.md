@@ -2,7 +2,7 @@
 2024년 3학년 11반 취업맞춤반 수업 : 개인포트폴리오를 제작을 위한 맞춤반 수업
 ## 01 day
   > ## date 2024.05.17
-    > [01 - Drum Kit](https://github.com/iamevans/2024_get_a_job/tree/main/JavaScript%20Projects/%2301Day%200517/01%20-%20Drum%20Kit)
+    > 01 - Drum Kit
     > 02 - Clock analog
     > 03 - Random Color Generator
 
